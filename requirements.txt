@@ -1,0 +1,9 @@
+python-jobspy>=1.1.0
+pandas
+requests
+beautifulsoup4
+requests-oauthlib  # For Trade Me API later
+pytz  # For timezone conversions
+playwright>=1.40.0  # For JavaScript rendering of SPA sites
+python-dotenv  # For loading .env file
+tabulate  # For pretty terminal tables
